@@ -3,7 +3,6 @@
 		<title>Login Page</title>
 	</head>
 	<body>
-		Welcome!
 		Please log into your account
 		
 		<form method="post">
